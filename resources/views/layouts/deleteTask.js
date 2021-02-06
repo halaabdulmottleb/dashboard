@@ -1,0 +1,3 @@
+function deleteTask() {
+	alert('hello');
+}

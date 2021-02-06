@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Xanh Mono', monospace;
+}
+#content{
+   font-size :9px;
+}
+
+p{
+    color:white;
+}
+    p.p-card {
+        font-size: 18px;
+    }
+#urgencyDiv {
+    font-size: 15px;
+}

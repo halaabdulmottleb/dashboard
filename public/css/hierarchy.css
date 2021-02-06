@@ -1,0 +1,36 @@
+
+.level3{
+ 
+  position:relative
+}
+.level3::before{
+  content:'';
+  position:absolute;
+  width:2px;
+  height:100%;
+  background:black;
+  bottom: 20px;
+  z-index: -1;
+  left: 10%;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+.content{
+  zoom :1;
+}
+
+#heading {
+   font-family: 'Xanh Mono', monospace;
+   font-size: 20px;
+}
+
+
+
